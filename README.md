@@ -1,1 +1,7 @@
 # ZSP5.JS
+####Lab Assignment 2
+This project utilizes basic shapes and lines to create a scene of balloons. Each balloon is an ellipse with a curved line attatched to the bottom. At the end of the line there is a base which is either a triangle or half circle. The code uses the basic shape functions to achieve this. Two of the balloons move using variables inside the ellipse functions.
+####Lab Assignment 4
+This project starts with the creation of a grid background using a for loop. The background also alternates colors. Then two characters are created using the basic ellipse and line functions. One character is able to be moved by the use using wasd. The second character does not move but has a rectangle above their head which serves as a progress bar. The user can use left click to create a line going from the user character to the right which is supposed to be a laser. If the line touches any part of the 2nd character the progress bar begins to deplete.
+####Lab Assignment 8
+This project requires the usage of a web server to be able to run. This requirement is due to the usage of images in the project. The three images are loaded using the image function. One image is of a pond and sits still. A second image starts in the top left corner. However, when the left mouse button is held, the bottom right corner of the image is moved to where the mouse is. The third and final image is a gif of a duck which is offset from the mouse and follows it around constantly.
